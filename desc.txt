@@ -1,0 +1,13 @@
+b => b
+
+bi => bi ib
+
+bir => bir bri ibr irb rib rbi
+
+biro =>
+biro bior brio broi boir bori
+ibro ibor irbo irob iobr iorb
+rbio rboi ribo riob roib robi
+obir obri oibr oirb orbi orib
+
+... ...
