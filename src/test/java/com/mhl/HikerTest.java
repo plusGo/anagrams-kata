@@ -1,5 +1,6 @@
 package com.mhl;
 
+import org.junit.Assert;
 import org.junit.Test;
 
 public class HikerTest {
@@ -10,5 +11,6 @@ public class HikerTest {
         // when
 
         // then
+        Assert.assertTrue(true);
     }
 }
